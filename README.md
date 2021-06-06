@@ -21,29 +21,28 @@
 
 For all of process that we do, we are using Google Colab (you can choose on the link above). But you can use local instead by several steps:
 
-### Run Locally
-
-#### Prerequisites
+### Prerequisites
 
 - [Python 3.6 - 3.8](https://www.python.org/downloads/)
 - [Python Virtual Environtment](https://www.python.org/downloads/)
 
+### Run Locally
 
-Download [notebook](https://github.com/GWaste/waste-classifer/raw/main/notebooks/models/model_final.ipynb)
+1. Download [notebook](https://github.com/GWaste/waste-classifer/raw/main/notebooks/models/model_final.ipynb)
 
-Clone the project [Optional]
+2. Clone the project [Optional]
 
    ```sh
    $ git clone https://github.com/GWaste/waste-classifer
    ```
 
-Go to the project directory
+3. Go to the project directory
 
    ```sh
    $ cd waste-classifer
    ```
 
-Install the required library with virtualenv
+4. Install the required library with virtualenv
 
    - Linux/ MacOS
      ```sh
@@ -58,7 +57,7 @@ Install the required library with virtualenv
      pip install numpy matplotlib tensorflow
      ```
 
-Run with [jupyter notebook](https://jupyter.org/)
+5. Run with [jupyter notebook](https://jupyter.org/)
 
    ```sh
    $ jupyter notebook
@@ -98,7 +97,7 @@ or contact one of our member.
   
 ## Related Paper
 
-Here are related paper that we used:
+Here are some related paper that we used:
 
 [Fine-Tuning Models Comparisons on Garbage Classification for
 Recyclability](https://arxiv.org/ftp/arxiv/papers/1908/1908.04393.pdf)
