@@ -1,6 +1,14 @@
 <h1 align="center">GWaste: Get to know your Waste</h1>
 <h3 align="center">Waste Classifer</h3>
 
+This repository contains our notebooks and dataset that we used when exploring our dataset, building our model, and testing our middleware. These notebooks was run on Google Colab environment.
+
+## Dataset
+
+We used trashnet by Gary Thung. You can get the original one from [here](https://github.com/garythung/trashnet).
+
+We have our two versions of that dataset, which is `v1` and `v2`. Both of this dataset originally from [`dataset-resized.zip`](https://github.com/garythung/trashnet/raw/master/data/dataset-resized.zip). [`v1`](https://github.com/GWaste/waste-classifer/raw/main/datasets/dataset-v1.zip) is the version where we manually classify and merged the "trash" class to the other classes. While [`v2`](https://github.com/GWaste/waste-classifer/raw/main/datasets/dataset-v2.zip) is the version with "trash" class entirely removed from the dataset.
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
