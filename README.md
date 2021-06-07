@@ -124,3 +124,5 @@ Classification](https://arxiv.org/pdf/2004.02168.pdf)
 ## Acknowledgements
 
  - [Bangkit](http://bangkit.academy/)
+ - [GWaste](https://github.com/GWaste/Introduction)
+
